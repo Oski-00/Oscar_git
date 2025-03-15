@@ -10,6 +10,8 @@ Estructura del proyecto:
 
 Este proyecto se realiza sobre la base de datos obtenida en la web https://www.kaggle.com/datasets. Esta base de datos consta únicamente de un archivo CSV con los datos sin procesar.
 
+
+
 Datos: Archivo CSV en crudo y sin procesar.
 
 Dentro del archivo nos encontramos con los datos diferenciados en las siguientes columnas:
@@ -46,6 +48,19 @@ Dentro del archivo nos encontramos con los datos diferenciados en las siguientes
 
 16- Dealer Region identifica las regiones de ventra estudiadas, con datos tipo texto.
 
+Con este archivo CSV, preparamos un Excel par poder analizar los datos incluidas en el mismo. El archivo Excel posee un menú de navegación a las diferentes hojas que explico a continuación:
+
+-- Hoja INICIO: donde accedmos al menú principal donde poder navegar al resto de hojas
+
+-- Hoja DATOS: donde encontran los datos del archivo CSV transformados y editados para poder realizar nuestro análisis.
+
+-- Hoja Análisis: donde se encuentran los cálculos y tablas dinámicas realizadas para encontrar los aspectos clave.
+
+-- Hoja Dashboard: donde se encuentra nuestro informe ilustrado con los datos más relevantes  obtenidos de los datos analizados.
+
+-- Hoja Informe: donde expongo un resumen del análisis de los datos realizados y comento los datos más relevantes.
+
+-- Hoja Readme:Donde Expongo un Readme similar a este.
 
 Análisis: Análisis de los datos en tablas dinámicas individuales.
 
